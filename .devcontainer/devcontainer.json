@@ -1,0 +1,9 @@
+{
+  "name": "mlops-zoomcamp-env",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/anaconda:1": {}
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
+}
