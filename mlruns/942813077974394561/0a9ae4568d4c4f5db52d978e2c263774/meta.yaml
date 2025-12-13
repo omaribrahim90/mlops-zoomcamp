@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/942813077974394561/0a9ae4568d4c4f5db52d978e2c263774/artifacts
+end_time: 1765658999839
+entry_point_name: ''
+experiment_id: '942813077974394561'
+lifecycle_stage: active
+run_id: 0a9ae4568d4c4f5db52d978e2c263774
+run_name: bouncy-trout-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765658960646
+status: 3
+tags: []
+user_id: vscode
